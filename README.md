@@ -4,8 +4,8 @@
     <h3 style="font-size: 1.5rem; color: #666; margin-bottom: 20px;">A passionate frontend developer from India</h3>
   </div>
 
-  <div style="margin-bottom: 30px; display: flex; alignItems: flex-start; flexDirection: column; gap: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=kumawat30rahul&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <div style="margin-bottom: 30px;">
+    <img src="https://komarev.com/ghpvc/?username=kumawat30rahul&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" style="display:block;" />
     <img src="https://github-profile-trophy.vercel.app/?username=kumawat30rahul" alt="trophies" />
   </div>
 
