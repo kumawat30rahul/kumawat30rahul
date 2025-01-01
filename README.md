@@ -25,16 +25,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <div style={{
-    display:'flex',
-    alignItems: 'center',
-    gap: '10px'
-  }}>
-<a href="https://linkedin.com/in/kumawat30rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumawat30rahul" height="30" width="40" /></a>
-<a href="https://instagram.com/rahulk_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulk_30" height="30" width="40" /></a>
-<a href="https://medium.com/@rahul005kumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahul005kumawat" height="30" width="40" /></a>
-</p>
-  </div>
+<div className="flex items-center gap-4">
+  <a href="https://linkedin.com/in/kumawat30rahul" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" className="w-8 h-8" />
+  </a>
+  <a href="https://instagram.com/rahulk_30" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" className="w-8 h-8" />
+  </a>
+  <a href="https://medium.com/@rahul005kumawat" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" className="w-8 h-8" />
+  </a>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
