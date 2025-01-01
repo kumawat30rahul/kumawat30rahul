@@ -10,13 +10,13 @@
   </div>
 
   <ul style="list-style-type: none; padding: 0; margin-bottom: 30px;">
-    <li style="margin-bottom: 15px; line-height: 1.6;">Currently working on <strong>Retail Management System & Point Of Sale</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Currently learning <strong>Java, React Native</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Looking to collaborate on <strong>UI/UX, Open Source Project, Frontend Development</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">All of my projects are available at <a href="https://rahul-kumawat.vercel.app/">https://rahul-kumawat.vercel.app/</a></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Ask me about <strong>React</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Reach me at <strong>kumawat30rahul@gmail.com</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Know about my experiences <a href="https://drive.google.com/file/d/1Anpm0gYts2Xs_IM1cUOdSn7BzfcaJPF-/view?usp=sharing">Resume</a></li>
+    <li style="margin-bottom: 15px; line-height: 1.6;">Currently working on:- <strong>Retail Management System & Point Of Sale</strong></li>
+    <li style="margin-bottom: 15px; line-height: 1.6;">Currently learning:- <strong>Java, React Native</strong></li>
+    <li style="margin-bottom: 15px; line-height: 1.6;">Looking to collaborate on:- <strong>UI/UX, Open Source Project, Frontend Development</strong></li>
+    <li style="margin-bottom: 15px; line-height: 1.6;">All of my projects are available at:- <a href="https://rahul-kumawat.vercel.app/">https://rahul-kumawat.vercel.app/</a></li>
+    <li style="margin-bottom: 15px; line-height: 1.6;">Ask me about:- <strong>React</strong></li>
+    <li style="margin-bottom: 15px; line-height: 1.6;">Reach me at:- <strong>kumawat30rahul@gmail.com</strong></li>
+    <li style="margin-bottom: 15px; line-height: 1.6;">Know about my experiences:- <a href="https://drive.google.com/file/d/1Anpm0gYts2Xs_IM1cUOdSn7BzfcaJPF-/view?usp=sharing">Resume</a></li>
   </ul>
 
   <h3 style="font-size: 1.25rem; font-weight: bold; margin: 30px 0 15px 0;">Connect with me:</h3>
