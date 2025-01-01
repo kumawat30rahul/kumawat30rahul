@@ -1,45 +1,122 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<style>
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumawat30rahul&label=Profile%20views&color=0e75b6&style=flat" alt="kumawat30rahul" /> </p>
+  .header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumawat30rahul" alt="kumawat30rahul" /></a> </p>
+  .title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
 
-- 🔭 I’m currently working on **Retail Management System & Point Of Sale**
+  .subtitle {
+    font-size: 1.5rem;
+    color: #666;
+    margin-bottom: 20px;
+  }
 
-- 🌱 I’m currently learning **Java, React Native**
+  .profile-stats {
+    margin-bottom: 30px;
+  }
 
-- 👯 I’m looking to collaborate on **UI/UX, Open Source Project, Frontend Development**
+  .info-list {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 30px;
+  }
 
-- 👨‍💻 All of my projects are available at [https://rahul-kumawat.vercel.app/](https://rahul-kumawat.vercel.app/)
+  .info-list li {
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
 
-- 💬 Ask me about **React**
+  .section-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin: 30px 0 15px 0;
+  }
 
-- 📫 How to reach me **kumawat30rahul@gmail.com**
+  .social-links {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 30px;
+  }
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Anpm0gYts2Xs_IM1cUOdSn7BzfcaJPF-/view?usp=sharing](https://drive.google.com/file/d/1Anpm0gYts2Xs_IM1cUOdSn7BzfcaJPF-/view?usp=sharing)
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+  }
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  .stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 30px;
+  }
+</style>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://linkedin.com/in/kumawat30rahul" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumawat30rahul" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rahulk_30" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulk_30" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@rahul005kumawat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahul005kumawat" height="30" width="40" />
-  </a>
+<div class="container">
+  <div class="header">
+    <h1 class="title">Hi, I'm Rahul Kumawat</h1>
+    <h3 class="subtitle">A passionate frontend developer from India</h3>
+  </div>
+
+  <div class="profile-stats">
+    <img src="https://komarev.com/ghpvc/?username=kumawat30rahul&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kumawat30rahul" alt="trophies" />
+  </div>
+
+  <ul class="info-list">
+    <li>Currently working on <strong>Retail Management System & Point Of Sale</strong></li>
+    <li>Currently learning <strong>Java, React Native</strong></li>
+    <li>Looking to collaborate on <strong>UI/UX, Open Source Project, Frontend Development</strong></li>
+    <li>All of my projects are available at <a href="https://rahul-kumawat.vercel.app/">https://rahul-kumawat.vercel.app/</a></li>
+    <li>Ask me about <strong>React</strong></li>
+    <li>Reach me at <strong>kumawat30rahul@gmail.com</strong></li>
+    <li>Know about my experiences <a href="https://drive.google.com/file/d/1Anpm0gYts2Xs_IM1cUOdSn7BzfcaJPF-/view?usp=sharing">Resume</a></li>
+  </ul>
+
+  <h3 class="section-title">Connect with me:</h3>
+  <div class="social-links">
+    <a href="https://linkedin.com/in/kumawat30rahul" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/rahulk_30" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@rahul005kumawat" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    </a>
+  </div>
+
+  <h3 class="section-title">Languages and Tools:</h3>
+  <div class="tools-grid">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </div>
+
+  <div class="stats-container">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumawat30rahul&show_icons=true&locale=en&layout=compact" alt="languages stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kumawat30rahul&show_icons=true&locale=en" alt="github stats" />
+  </div>
 </div>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumawat30rahul&show_icons=true&locale=en&layout=compact" alt="kumawat30rahul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawat30rahul&show_icons=true&locale=en" alt="kumawat30rahul" /></p>
