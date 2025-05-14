@@ -66,15 +66,6 @@ I'm a passionate frontend developer from India with a keen eye for design and a 
 
 </div>
 
-## 💻 Featured Projects
-
-<div align="center">
-
-[![Retail Management System](https://github-readme-stats.vercel.app/api/pin/?username=kumawat30rahul&repo=retail-management-system&theme=radical)](https://github.com/kumawat30rahul/retail-management-system)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=kumawat30rahul&repo=portfolio&theme=radical)](https://github.com/kumawat30rahul/portfolio)
-
-</div>
-
 
 ## 🎯 What I'm Working On
 
