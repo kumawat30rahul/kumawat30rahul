@@ -1,54 +1,97 @@
-<div style="max-width: 1200px; margin: 0 auto; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-  <div style="text-align: center; margin-bottom: 40px;">
-    <h1 style="font-size: 2.5rem; font-weight: bold; margin-bottom: 10px;">Hi, I'm Rahul Kumawat</h1>
-    <h3 style="font-size: 1.5rem; color: #666; margin-bottom: 20px;">A passionate frontend developer from India</h3>
-  </div>
+# 👨‍💻 Rahul Kumawat | Frontend Developer
 
-  <div style="margin-bottom: 30px;">
-    <img src="https://komarev.com/ghpvc/?username=kumawat30rahul&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" style="display:block;" />
-    <img src="https://github-profile-trophy.vercel.app/?username=kumawat30rahul" alt="trophies" />
-  </div>
+<div align="center">
+  
+![Banner](https://i.imgur.com/ZvHACzd.png)
 
-  <ul style="list-style-type: none; padding: 0; margin-bottom: 30px;">
-    <li style="margin-bottom: 15px; line-height: 1.6;">Currently working on:- <strong>Retail Management System & Point Of Sale</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Currently learning:- <strong>Java, React Native</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Looking to collaborate on:- <strong>UI/UX, Open Source Project, Frontend Development</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">All of my projects are available at:- <a href="https://rahul-kumawat.vercel.app/">https://rahul-kumawat.vercel.app/</a></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Ask me about:- <strong>React</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Reach me at:- <strong>kumawat30rahul@gmail.com</strong></li>
-    <li style="margin-bottom: 15px; line-height: 1.6;">Know about my experiences:-<strong> <a href="https://drive.google.com/file/d/1Anpm0gYts2Xs_IM1cUOdSn7BzfcaJPF-/view?usp=sharing">Resume</a><strong/> </li>
-  </ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumawat30rahul)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulk_30)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@rahul005kumawat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://rahul-kumawat.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=kumawat30rahul&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/kumawat30rahul)
 
-  <h3 style="font-size: 1.25rem; font-weight: bold; margin: 30px 0 15px 0;">Connect with me:</h3>
-  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 30px;">
-    <a href="https://linkedin.com/in/kumawat30rahul" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/rahulk_30" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@rahul005kumawat" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-    </a>
-  </div>
+</div>
 
-  <h3 style="font-size: 1.25rem; font-weight: bold; margin: 30px 0 15px 0;">Languages and Tools:</h3>
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(40px, 1fr)); gap: 20px; margin-bottom: 30px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </div>
+## 🚀 About Me
 
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumawat30rahul&show_icons=true&locale=en&layout=compact" alt="languages stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kumawat30rahul&show_icons=true&locale=en" alt="github stats" />
-  </div>
+> *"Crafting pixel-perfect interfaces that delight users and solve real-world problems."*
+
+I'm a passionate frontend developer from India with a keen eye for design and a love for creating seamless user experiences. I specialize in building responsive, accessible, and performant web applications using modern JavaScript frameworks and libraries.
+
+- 🔭 Currently building: **Retail Management System & Point Of Sale**
+- 🌱 Learning: **Java, React Native, Advanced Animation Techniques**
+- 👯 Open to collaborate on: **UI/UX Projects, Open Source, Frontend Development**
+- 💼 Portfolio: [rahul-kumawat.vercel.app](https://rahul-kumawat.vercel.app/)
+- 📧 Contact: **kumawat30rahul@gmail.com**
+- 📄 Experience: [View Resume](https://drive.google.com/file/d/1Anpm0gYts2Xs_IM1cUOdSn7BzfcaJPF-/view?usp=sharing)
+- 💬 Ask me about: **React, Frontend Architecture, Performance Optimization**
+- ⚡ Fun fact: **When I'm not coding, I'm probably exploring cafés or capturing landscapes with my camera!**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumawat30rahul&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumawat30rahul&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumawat30rahul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=kumawat30rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+## 💻 Featured Projects
+
+<div align="center">
+
+[![Retail Management System](https://github-readme-stats.vercel.app/api/pin/?username=kumawat30rahul&repo=retail-management-system&theme=radical)](https://github.com/kumawat30rahul/retail-management-system)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=kumawat30rahul&repo=portfolio&theme=radical)](https://github.com/kumawat30rahul/portfolio)
+
+</div>
+
+
+## 🎯 What I'm Working On
+
+- 📱 Expanding my skills in mobile development with React Native
+- 🧩 Building reusable component libraries for faster development
+- 🌐 Exploring server-side rendering and static site generation techniques
+- 🔍 Diving deeper into web accessibility and performance optimization
+
+---
+
+<div align="center">
+  
+### 💡 "Good code is its own best documentation." 💡
+
+**Thanks for visiting my profile! Let's connect and build something amazing together.**
+
 </div>
