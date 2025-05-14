@@ -1,7 +1,4 @@
-# 👨‍💻 Rahul Kumawat | Frontend Developer
-
-<div align="center">
-  
+<div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rahul%20Kumawat&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20Specialist&descAlignY=55&animation=fadeIn" alt="Rahul Kumawat" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumawat30rahul)
