@@ -52,9 +52,14 @@ I'm a passionate frontend developer from India with a keen eye for design and a 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kumawat30rahul&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumawat30rahul&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" />
 </div>
-
+<div align="center">
+<img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=kumawat30rahul&theme=tokyonight&hide_border=true"
+          alt="GitHub Streak"
+          width="48%"
+        />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumawat30rahul&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="40%" />
 </div>
