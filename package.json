@@ -1,0 +1,10 @@
+{
+  "name": "kumawat30rahul-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "contributions": "node scripts/contributions.mjs"
+  },
+  "devDependencies": { "simple-icons": "^16.0.0" }
+}

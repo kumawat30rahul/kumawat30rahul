@@ -1,90 +1,91 @@
-<div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rahul%20Kumawat&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20|%20MERN&descAlignY=55&animation=fadeIn" alt="Rahul Kumawat" />
+<!-- ═══════════════════════════  HERO  ═══════════════════════════ -->
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumawat30rahul)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulk_30)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@rahul005kumawat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://rahul-kumawat.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=kumawat30rahul&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/kumawat30rahul)
+<a href="https://rahul-kumawat.vercel.app">
+  <img src="./assets/header.svg" width="100%" alt="Rahul Kumawat — Software Engineer (SDE-1) at SwiffyLabs"/>
+</a>
+
+<img src="./assets/typing.svg" width="720" alt="SDE-1 at SwiffyLabs · Building a portfolio generator · Shipping brainup.in and calculatorhq.in"/>
+
+<a href="https://rahul-kumawat.vercel.app"><img src="./assets/social/portfolio.svg" height="44" alt="Portfolio"/></a>&nbsp;
+<a href="https://github.com/kumawat30rahul"><img src="./assets/social/github.svg" height="44" alt="GitHub"/></a>&nbsp;
+<a href="https://linkedin.com/in/kumawat30rahul"><img src="./assets/social/linkedin.svg" height="44" alt="LinkedIn"/></a>&nbsp;
+<a href="https://medium.com/@rahul005kumawat"><img src="./assets/social/medium.svg" height="44" alt="Medium"/></a>&nbsp;
+<a href="https://instagram.com/rahulk_30"><img src="./assets/social/instagram.svg" height="44" alt="Instagram"/></a>&nbsp;
+<a href="mailto:kumawat30rahul@gmail.com"><img src="./assets/social/email.svg" height="44" alt="Email"/></a>
 
 </div>
 
-## 🚀 About Me
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-> *"Crafting pixel-perfect interfaces that delight users and solve real-world problems."*
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I'm a passionate frontend developer from India with a keen eye for design and a love for creating seamless user experiences. I specialize in building responsive, accessible, and performant web applications using modern JavaScript frameworks and libraries.
+<img src="./assets/about.svg" width="100%" alt="about-me.ts — Software Engineer (SDE-1) at SwiffyLabs, building a portfolio generator, shipped brainup.in and calculatorhq.in"/>
 
-- 🔭 Currently building: **Retail Management System & Point Of Sale**
-- 🌱 Learning: **Java, React Native, Advanced Animation Techniques**
-- 👯 Open to collaborate on: **UI/UX Projects, Open Source, Frontend Development**
-- 💼 Portfolio: [rahul-kumawat.vercel.app](https://rahul-kumawat.vercel.app/)
-- 📧 Contact: **kumawat30rahul@gmail.com**
-- 📄 Experience: [View Resume](https://drive.google.com/file/d/1Anpm0gYts2Xs_IM1cUOdSn7BzfcaJPF-/view?usp=sharing)
-- 💬 Ask me about: **React, Frontend Architecture, Performance Optimization**
-- ⚡ Fun fact: **When I'm not coding, I'm probably exploring cafés or capturing landscapes with my camera!**
+</td>
+<td width="38%" valign="top">
 
-## 🛠️ Tech Stack
+### ⚡ Right now
+
+- 💼 &nbsp;**SDE-1** at **SwiffyLabs**
+- 🧱 &nbsp;Building a **Portfolio Generator**
+- 🤖 &nbsp;Shipping faster with **agentic coding**
+- 📱 &nbsp;Learning **React Native** & **Java**
+
+### 🤝 Open to
+
+UI/UX work · open source · frontend collabs
+
+### 💬 Ask me about
+
+React · frontend architecture · performance
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
+<h2 align="center">Tech I build with</h2>
+
+<div align="center">
+<img src="./assets/skills.svg" width="100%" alt="Skills: React, Next.js, TypeScript, JavaScript, Redux, Tailwind, HTML5, CSS, Node.js, Express, MongoDB, Google Cloud, Vercel, Agentic coding, Git, GitHub, Figma. Learning Java and React Native."/>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
+<h2 align="center">What I'm building</h2>
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<a href="https://github.com/kumawat30rahul"><img src="./assets/card-portfolio-generator.svg" width="100%" alt="Now building — Portfolio Generator"/></a>
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+<tr>
+<td><a href="https://brainup.in"><img src="./assets/card-brainup.svg" width="430" alt="brainup.in — free resume builder for Indian job seekers"/></a></td>
+<td><a href="https://calculatorhq.in"><img src="./assets/card-calculatorhq.svg" width="430" alt="calculatorhq.in — everyday calculators"/></a></td>
+</tr>
+</table>
 
 </div>
 
-## 📊 GitHub Stats
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ═══════════════════════════  CONTRIBUTIONS  ═══════════════════════════ -->
+<h2 align="center">Contribution history</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumawat30rahul&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="50%" />
-</div>
-<div align="center">
-<img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=kumawat30rahul&theme=tokyonight&hide_border=true"
-          alt="GitHub Streak"
-          width="48%"
-        />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumawat30rahul&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="40%" />
-</div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=kumawat30rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="./assets/contributions.svg" width="100%" alt="GitHub contribution history for the last year"/>
+
+<img src="https://raw.githubusercontent.com/kumawat30rahul/kumawat30rahul/output/snake.svg" width="100%" alt="Snake eating my contributions"/>
 
 </div>
 
-
-## 🎯 What I'm Working On
-
-- 📱 Expanding my skills in mobile development with React Native
-- 🧩 Building reusable component libraries for faster development
-- 🌐 Exploring server-side rendering and static site generation techniques
-- 🔍 Diving deeper into web accessibility and performance optimization
-
----
-
-<div align="center">
-  
-### 💡 "Good code is its own best documentation." 💡
-
-**Thanks for visiting my profile! Let's connect and build something amazing together.**
-
-</div>
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
