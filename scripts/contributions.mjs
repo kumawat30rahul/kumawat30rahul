@@ -54,7 +54,7 @@ export function render(counts, today = new Date()) {
   const nz = days.map((x) => x.n).filter(Boolean).sort((a, b) => a - b);
   const q = (p) => nz[Math.floor((nz.length - 1) * p)] || 1;
   const level = (n) => (n === 0 ? 0 : n <= q(0.25) ? 1 : n <= q(0.5) ? 2 : n <= q(0.8) ? 3 : 4);
-  const COLORS = ["#eef0f6", "#c7d2fe", "#a5b4fc", "#6366f1", "#3730a3"];
+  const COLORS = ["#17171d", "#2e2a4a", "#4f4690", "#8b7cf0", "#c4b5fd"];
 
   const W = 900, H = 330, CELL = 12, GAP = 3, GX = 52, GY = 150;
   let cells = "", months = "", lastMonth = -1;
@@ -80,31 +80,31 @@ export function render(counts, today = new Date()) {
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" fill="none">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="${W}" y2="${H}" gradientUnits="userSpaceOnUse"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f5f7ff"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="${W}" gradientUnits="userSpaceOnUse"><stop stop-color="#c4b5fd" stop-opacity="0"/><stop offset=".3" stop-color="#c4b5fd" stop-opacity=".9"/><stop offset=".7" stop-color="#93c5fd" stop-opacity=".9"/><stop offset="1" stop-color="#93c5fd" stop-opacity="0"/></linearGradient><radialGradient id="gl"><stop stop-color="#c4b5fd" stop-opacity=".12"/><stop offset="1" stop-color="#c4b5fd" stop-opacity="0"/></radialGradient>
 <style>
 ${font("geist-800.woff2", "Geist", 800)}${font("geist-500.woff2", "Geist", 500)}${font("geist-mono-400.woff2", "Geist Mono", 400)}
 text{font-family:Geist,'Segoe UI',Arial,sans-serif}
-.h{font-size:18px;font-weight:800;fill:#0b1020;letter-spacing:-.2px}
-.sub{font-family:'Geist Mono',monospace;font-size:12px;fill:#5b6478}
-.num{font-size:30px;font-weight:800;fill:#0b1020;letter-spacing:-.8px}
-.lbl2{font-size:13px;font-weight:500;fill:#5b6478}
-.lbl{font-family:'Geist Mono',monospace;font-size:11px;fill:#5b6478}
-.c{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .45s cubic-bezier(.2,.9,.3,1.3) forwards}
-@keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:scale(1)}}
+.h{font-size:18px;font-weight:800;fill:#f4f4f6;letter-spacing:-.2px}
+.sub{font-family:'Geist Mono',monospace;font-size:12px;fill:#8a8c97}
+.num{font-size:30px;font-weight:800;fill:#f4f4f6;letter-spacing:-.8px}
+.lbl2{font-size:13px;font-weight:500;fill:#8a8c97}
+.lbl{font-family:'Geist Mono',monospace;font-size:11px;fill:#5d5f6a}
+.c{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .45s cubic-bezier(.22,.8,.24,1) forwards}
+@keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:scale(1)}}
 .up{opacity:0;animation:up .7s ease-out forwards}
 @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 .live{animation:bl 1.6s ease-in-out infinite}@keyframes bl{50%{opacity:.25}}
 </style></defs>
-<rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="18" fill="url(#bg)" stroke="#e3e6f0"/>
+<rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="17.5" fill="#111116" stroke="#24242c"/><ellipse cx="${W * 0.8}" cy="0" rx="320" ry="160" fill="url(#gl)"/><rect x="18" y="0" width="${W - 36}" height="1" fill="url(#sh)"/>
 <text x="28" y="40" class="h">Last 12 months</text>
 
-${(() => { const t = `${fmt(days[0].date)} → ${fmt(days[days.length - 1].date)}`; return `<circle class="live" cx="${W - 28 - t.length * 7.2 - 12}" cy="35.5" r="4" fill="#10b981"/><text x="${W - 28}" y="40" text-anchor="end" class="sub">${t}</text>`; })()}
+${(() => { const t = `${fmt(days[0].date)} → ${fmt(days[days.length - 1].date)}`; return `<circle class="live" cx="${W - 28 - t.length * 7.2 - 12}" cy="35.5" r="4" fill="#86efac"/><text x="${W - 28}" y="40" text-anchor="end" class="sub">${t}</text>`; })()}
 ${stat(28, total.toLocaleString("en"), "contributions this year", 0.1)}
 ${stat(238, `${current}d`, "current streak", 0.25)}
 ${stat(408, `${longest}d`, "longest streak", 0.4)}
 ${stat(578, active, "active days", 0.55)}
 ${stat(728, best.n, `best day · ${fmt(best.date)}`, 0.7)}
-<line x1="28" y1="122" x2="${W - 28}" y2="122" stroke="#e8eaf2"/>
+<line x1="28" y1="122" x2="${W - 28}" y2="122" stroke="#1c1c23"/>
 ${months}
 <text x="22" y="${GY + 1 * (CELL + GAP) + 10}" class="lbl">Mon</text>
 <text x="22" y="${GY + 3 * (CELL + GAP) + 10}" class="lbl">Wed</text>
